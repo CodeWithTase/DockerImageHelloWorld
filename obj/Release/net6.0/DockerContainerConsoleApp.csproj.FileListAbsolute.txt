@@ -1,0 +1,15 @@
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\DockerContainerConsoleApp.exe
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\DockerContainerConsoleApp.deps.json
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\DockerContainerConsoleApp.runtimeconfig.json
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\DockerContainerConsoleApp.dll
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\DockerContainerConsoleApp.pdb
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\DockerContainerConsoleApp.csproj.AssemblyReference.cache
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\DockerContainerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\DockerContainerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\DockerContainerConsoleApp.AssemblyInfo.cs
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\DockerContainerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\DockerContainerConsoleApp.dll
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\refint\DockerContainerConsoleApp.dll
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\DockerContainerConsoleApp.pdb
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\DockerContainerConsoleApp.genruntimeconfig.cache
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\obj\Release\net6.0\ref\DockerContainerConsoleApp.dll

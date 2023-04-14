@@ -1,0 +1,5 @@
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\publish\DockerContainerConsoleApp.exe
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\publish\DockerContainerConsoleApp.dll
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\publish\DockerContainerConsoleApp.deps.json
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\publish\DockerContainerConsoleApp.runtimeconfig.json
+C:\Users\EruAk\source\repos\DockerContainerConsoleApp\DockerContainerConsoleApp\bin\Release\net6.0\publish\DockerContainerConsoleApp.pdb
